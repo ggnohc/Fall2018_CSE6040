@@ -30,5 +30,6 @@
 ```
 * Efficiency
 	* not necessary to have a table, since most of the entries might be zero, instead using dictionary. (collections.Defaultdict does not need to check if the key exists, if not, the new entry will be created by Python)
+	
 * Implementation ([Notebook2](https://github.com/qixuanHou/Fall2018_CSE6040/blob/master/Notebook_2.md))
 	
