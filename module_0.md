@@ -27,3 +27,4 @@
 	for every (a in A, b in A):
 		if T[a,b]/ >=S:
 			then output a=> b```
+* Implementation ([Notebook2]())
