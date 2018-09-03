@@ -28,4 +28,4 @@
 		if T[a,b]/ >=S:
 			then output a=> b
 ```
-* Implementation ([Notebook2]())
+* Implementation ([Notebook2](https://github.com/qixuanHou/Fall2018_CSE6040/blob/master/Notebook_2.md))
