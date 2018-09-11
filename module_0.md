@@ -33,3 +33,5 @@
 	
 * Implementation ([Notebook2](https://github.com/qixuanHou/Fall2018_CSE6040/blob/master/Notebook_2.md))
 	
+### Topic 3 - Representation Number
+### Representing numbers
