@@ -34,4 +34,6 @@
 * Implementation ([Notebook2](https://github.com/qixuanHou/Fall2018_CSE6040/blob/master/Notebook_2.md))
 	
 ### Topic 3 - Representation Number
-### Representing numbers
+### Topic 4 - Representing numbers
+* scientific notation (+, 1.25, -1) = 0.125
+* rounding error 
